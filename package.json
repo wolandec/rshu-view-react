@@ -2,7 +2,7 @@
   "name": "rshu-view",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://wolandec.github.io/rshu-react",
+  "homepage": "https://wolandec.github.io/rshu-view-react",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
