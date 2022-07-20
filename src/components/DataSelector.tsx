@@ -43,7 +43,7 @@ export function DataSelector({ onChange }: DataSelectorProps) {
 
   useEffect(() => {
     onChange(state);
-  }, [state, onChange]);
+  }, [state]);
 
   return (
     <div className="flex justify-center">
