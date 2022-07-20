@@ -23,7 +23,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "homepage": "https://wolandec.github.io/rshu-view-react"
+    "homepage": "https://wolandec.github.io/rshu-react"
   },
   "eslintConfig": {
     "extends": [

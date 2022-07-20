@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import "./App.css";
 import { RadarData } from "./components/RadarData";
 import { DataSelector, SelectorData } from "./components/DataSelector";

@@ -4,7 +4,7 @@ import {
   getImgUrlByMoment,
   setZeroPrefix,
 } from "../utils/common";
-import { SyntheticEvent, useEffect, useMemo, useRef, useState } from "react";
+import { useMemo, useRef, useState } from "react";
 
 export interface RadarDataProps {
   moment: {
