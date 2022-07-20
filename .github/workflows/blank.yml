@@ -26,5 +26,7 @@ jobs:
       # Runs a single command using the runners shell
       - name: Run a one-line script
         run: |
+          git config --global user.email "wolandec@gmail.com"
+          git config user.name "Anton Lazarev"
           npm install
           npm run deploy
