@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/rshu-view-react/static/css/main.f94e1df4.css",
-    "main.js": "/rshu-view-react/static/js/main.a0b710b0.js",
+    "main.css": "/rshu-view-react/static/css/main.c2827f4b.css",
+    "main.js": "/rshu-view-react/static/js/main.08c6ebc3.js",
     "static/js/787.6f814446.chunk.js": "/rshu-view-react/static/js/787.6f814446.chunk.js",
     "index.html": "/rshu-view-react/index.html",
-    "main.f94e1df4.css.map": "/rshu-view-react/static/css/main.f94e1df4.css.map",
-    "main.a0b710b0.js.map": "/rshu-view-react/static/js/main.a0b710b0.js.map",
+    "main.c2827f4b.css.map": "/rshu-view-react/static/css/main.c2827f4b.css.map",
+    "main.08c6ebc3.js.map": "/rshu-view-react/static/js/main.08c6ebc3.js.map",
     "787.6f814446.chunk.js.map": "/rshu-view-react/static/js/787.6f814446.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f94e1df4.css",
-    "static/js/main.a0b710b0.js"
+    "static/css/main.c2827f4b.css",
+    "static/js/main.08c6ebc3.js"
   ]
 }
